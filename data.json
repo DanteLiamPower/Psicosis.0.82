@@ -4,12 +4,14 @@
         {
             "tag":"1",
             "patterns":[
-               " hola"
+               " hola",
+                "holi"
               
 
             ],
             "responses":[
-                "muy buenos dias :D que haces?"
+                "muy buenos dias :D que haces?",
+                "holi"
         
                 
                 
@@ -18,11 +20,13 @@
         {
             "tag":"2",
             "patterns":[
-               "adios"
+               "adios",
+                "bye"
           
             ],
             "responses":[
-                "hasta luego"
+                "hasta luego",
+                "cuidate"
                 
             ]
         }
