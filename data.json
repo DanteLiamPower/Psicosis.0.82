@@ -89,38 +89,7 @@
                 "inhala y exhala unos 10 segundos, ahora cuentame ,que sucedio?"
             ]
         },
-        {
-            "tag":"valor aggresion",
-            "patterns":[
-               "me hace mucho daño",
-               "no deja de molestarme",
-               "quiero ser libre de ",
-               "quiero que deje de hacerme eso",
-               "ya no quiero que me haga eso",
-               "lo quiero fuera de mi vida"
-            ],
-            "responses":[
-                "dejara de hacerlo si le pones un alto",
-                "quiero que pienses en ti y pongas un alto a esa persona ",
-                "busca a alguien con la autoridad suficiente para que deje de hacerte esto"
-            ]
-        },
-        {
-            "tag":"valor fear",
-            "patterns":[
-               "tengo miedo",
-               "no creo que pueda",
-               "no lo se",
-               "no se si pueda hacerlo",
-               "no tengo la capacidad de hacerlo",
-               "no puedo",
-               "no se si pueda"
-            ],
-            "responses":[
-                "animos, se queda mucho miedo , pero no encotraras tu meta si no das el primer paso ."
-                
-            ]
-        },
+        
         {
             "tag":"valor addiction",
             "patterns":[
