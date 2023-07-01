@@ -1,2 +1,3 @@
 # Psicosis.0.82
-ia sobre sentimientos
+ia sobre sentimientos xdxdxdxdxdxd
+
