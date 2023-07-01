@@ -64,31 +64,7 @@
                 "siento mucho que estes asi.... , quien es el responsable de tus malestares? "
             ]
         },
-        {
-            "tag":"valor fury",
-            "patterns":[
-               "estoy molesto",
-               "quiero golpear a alguien",
-               "estoy molesto con alguien",
-               "tengo mucha ira acumulada",
-               "quiero destrozar algo",
-               "quiero romper algo",
-               "quiero patear a alguien",
-               "quiero justicia",
-               "estoy enojado",
-               "quiero desquitarme con algo",
-               "odio estar con vida",
-               "odio a mis compañeros",
-               "odio a mis padres",
-               "odio a dios",
-               "maldita sea",
-               "maldigo a "
-            ],
-            "responses":[
-                "vale, necesito que primero vayas y te consigas un vaso con agua ,bien hecho, ahora dime ,que sucedio?",
-                "inhala y exhala unos 10 segundos, ahora cuentame ,que sucedio?"
-            ]
-        },
+        
         
         {
             "tag":"valor addiction",
