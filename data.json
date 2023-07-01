@@ -96,7 +96,7 @@
                "no deja de molestarme",
                "quiero ser libre de ",
                "quiero que deje de hacerme eso",
-               "ya quiero que me haga eso",
+               "ya no quiero que me haga eso",
                "lo quiero fuera de mi vida"
             ],
             "responses":[
@@ -125,7 +125,7 @@
             "tag":"valor addiction",
             "patterns":[
                "fumo",
-               "bebo ",
+               "bebo",
                "uso drogas",
                "me meto sustancias ilegales"
             ],
@@ -187,7 +187,7 @@
             "tag":"negacion",
             "patterns":[
                "no",
-               " no es cierto",
+               "no es cierto",
                "dije que no",
                "negativo",
                "no es asi"
@@ -207,7 +207,7 @@
                "team zorro"
             ],
             "responses":[
-                "he sido creado por el tem zorros"
+                "he sido creado por el team zorro"
                
             ]
         }
