@@ -3,7 +3,7 @@
         {
             "tag":"saludo",
             "patterns":[
-               "hola",
+               " hola",
                "buenos dias",
                "buenas tardes",
                "que onda?",
@@ -28,23 +28,14 @@
             ]
         },
         {
-            "tag":"valor fun",
+            "tag":"valor afirmativo",
             "patterns":[
                "estoy feliz",
                "estoy emocionado",
                "me encuentro bien",
                "estoy relajado ",
                "estoy exitado",
-               "estoy tranquilo"
-            ],
-            "responses":[
-                "por que razon te encuentras euforico mi estimado?"
-                
-            ]
-        },    
-        {
-            "tag":"valor sad",
-            "patterns":[
+               "estoy tranquilo",
                "estoy triste",
                "sad",
                "toy triste",
@@ -57,16 +48,7 @@
                "quiero llorar",
                "quiero dejar de existir",
                "quiero ahogarme",
-               "quiero dejar de sentir dolor"
-            ],
-            "responses":[
-                "por que te sientes asi? quien te hace sentirte asi ?",
-                "siento mucho que estes asi.... , quien es el responsable de tus malestares? "
-            ]
-        },
-        {
-            "tag":"valor fury",
-            "patterns":[
+               "quiero dejar de sentir dolor",
                "estoy molesto",
                "quiero golpear a alguien",
                "estoy molesto con alguien",
@@ -81,14 +63,15 @@
                "odio a mis compañeros",
                "odio a mis padres",
                "odio a dios",
-               "maldita sea",
-               "maldigo a "
+               "maldita sea"
             ],
             "responses":[
-                "vale necesito que primero vayas y te consigas un vaso con agua ,bien hecho, ahora dime¿ que sucedio?",
-                "inhala y exhala unos 10 segundos, ahora cuentame ¿que sucedio?"
+                "por que razon te encuentras euforico mi estimado?",
+                "por que te sientes asi? quien te hace sentirte asi ?"
+                
             ]
         },
+        
         {
             "tag":"valor aggresion",
             "patterns":[
@@ -207,9 +190,11 @@
                "team zorro"
             ],
             "responses":[
-                "he sido creado por el tem zorros"
+                "he sido creado por el team zorros"
                
             ]
         }
     ]
+}
+
 }
