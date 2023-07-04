@@ -14,15 +14,17 @@
                "que pex",
                "hola bro",
                "hola sis",
-               "hi"
+               "hi",
+                "hole mole"
 
 
 
             ],
             "responses":[
-                "muy buenos dias :D que haces?",
-                "muy buenos dias camarada, dime que hiciste hoy",
-                "hola , quisieras contarme que hiciste?"
+                "Hey hola,quisiera saber como te ha ido?",
+                "Muy buenas camarada, que andas haciendo ahora?",
+                "Hola :D,hay algo en que pueda ayudarte? ",
+                "Como te sientes hoy dulzura?"
                 
                 
             ]
@@ -66,8 +68,8 @@
                "maldita sea"
             ],
             "responses":[
-                "por que razon te encuentras euforico mi estimado?",
-                "por que te sientes asi? quien te hace sentirte asi ?"
+                "por que razon te encuentras en ese estado?",
+                "por que te sientes asi?explicame :0"
                 
             ]
         },
@@ -77,7 +79,6 @@
             "patterns":[
                "me hace mucho daño",
                "no deja de molestarme",
-               "quiero ser libre de ",
                "quiero que deje de hacerme eso",
                "ya quiero que me haga eso",
                "lo quiero fuera de mi vida"
@@ -85,7 +86,8 @@
             "responses":[
                 "dejara de hacerlo si le pones un alto",
                 "quiero que pienses en ti y pongas un alto a esa persona ",
-                "busca a alguien con la autoridad suficiente para que deje de hacerte esto"
+                "busca a alguien con la autoridad suficiente para que deje de hacerte esto",
+                "por que razon lo hace?"
             ]
         },
         {
@@ -100,7 +102,10 @@
                "no se si pueda"
             ],
             "responses":[
-                "animos, se queda mucho miedo , pero no encotraras tu meta si no das el primer paso ."
+                "tranquilo, piensa en tu respuesta que no hay prisa",
+                "respira, reflexiona tu prioridad",
+                "calma que no cunda panico,solo racionalizalo",
+                "y eso por que?"
                 
             ]
         },
@@ -110,22 +115,38 @@
                "fumo",
                "bebo ",
                "uso drogas",
-               "me meto sustancias ilegales"
+               "me meto sustancias ilegales",
+                "yo fumo",
+                "yo bebo",
+                "quiero beber",
+                "quier fumar",
             ],
             "responses":[
-                "por que razon consumes eso?"
+                "por que razon consumes eso?,es muy perjudial",
+                "tal vez un poquito de cancer te haga reflexionar ok no"
             ]
         },  
         {
-            "tag":"valor hallucination",
+            "tag":"pregunta",
             "patterns":[
-               "veo cosas que nadie ve",
-               "alucine con sombras"
+               "que?",
+               "por que?",
+               "segun quien?",
+               "mande?",
+               "por que te haria caso ?",
+               "que huevada contigo",
+               "que vrga contigo",
+                "no tengo por que hacerte caso",
+                "no quiero hacerte caso ",
+                "para que",
+                "no te creo"
             ],
             "responses":[
                
-                "que cosas has visto?",
-                "cada cuanto los has visto"
+                "solo piensalo, es razonable lo que digo",
+                "mis conocimientos se basan en la teoria de inteligencia emocional",
+                "tranquilo se que duele decir la verdad",
+                "por que dudas de mi"
             ]
         },
         {
@@ -134,24 +155,20 @@
                "estoy aburrido",
                "nah para que hacerlo",
                "me da flojera",
-               "no quiero"
+               "no quiero hacer nada",
+                "que idiotez"
+                
             ],
             "responses":[
-                "ser ocioso o procastinar te hace perder cosas valiosas "
+                "animate y ponte a correr ",
+                "animate con viendo algo",
+                "y si te pones a dormir?",
+                "y si sales a socializar un rato?",
+                "y eso por que?"
+            
             ]
         },
-        {
-            "tag":"valor question",
-            "patterns":[
-               "como que?",
-               "respondeme",
-               "quiero una respuesta"
-            ],
-            "responses":[
-                "no lo se , pero se que tu si lo sabes",
-                "para que hacerlo si se que tu lo sabes"
-            ]
-        },
+    
         {
             "tag":"valor yes",
             "patterns":[
@@ -159,7 +176,11 @@
                "claro",
                "me parece bien",
                "por supuesto",
-               "comprendo"
+               "comprendo",
+                "eso quiero ahora",
+                "yeeeeeei",
+                "hurra",
+                "estoy motivado",
             ],
             "responses":[
                 "Esa es la actitud."
@@ -173,13 +194,17 @@
                " no es cierto",
                "dije que no",
                "negativo",
-               "no es asi"
+               "no es asi",
+                "no lo se",
+                "no le sabes",
+                "quiero irme"
                
             ],
             "responses":[
                 "Piensalo con calma una vez mas.",
                 "Si se lo prguntas a alguien mas veras que tengo la razon ",
-                "No estas pensando muy claro, respira un poco"
+                "No estas pensando muy claro, respira un poco",
+                "Por que?"
             ]
         },
         {
